@@ -1,0 +1,13 @@
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\bin\Debug\netcoreapp3.1\Lab1_Part2_1210.exe
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\bin\Debug\netcoreapp3.1\Lab1_Part2_1210.deps.json
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\bin\Debug\netcoreapp3.1\Lab1_Part2_1210.runtimeconfig.json
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\bin\Debug\netcoreapp3.1\Lab1_Part2_1210.runtimeconfig.dev.json
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\bin\Debug\netcoreapp3.1\Lab1_Part2_1210.dll
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\bin\Debug\netcoreapp3.1\Lab1_Part2_1210.pdb
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\obj\Debug\netcoreapp3.1\Lab1_Part2_1210.csprojAssemblyReference.cache
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\obj\Debug\netcoreapp3.1\Lab1_Part2_1210.AssemblyInfoInputs.cache
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\obj\Debug\netcoreapp3.1\Lab1_Part2_1210.AssemblyInfo.cs
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\obj\Debug\netcoreapp3.1\Lab1_Part2_1210.csproj.CoreCompileInputs.cache
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\obj\Debug\netcoreapp3.1\Lab1_Part2_1210.dll
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\obj\Debug\netcoreapp3.1\Lab1_Part2_1210.pdb
+C:\Users\Jasmi\Desktop\GrandCircus\Lab1_Part2_1210\Lab1_Part2_1210\obj\Debug\netcoreapp3.1\Lab1_Part2_1210.genruntimeconfig.cache
